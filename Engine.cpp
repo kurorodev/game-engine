@@ -12,7 +12,6 @@ Engine::Engine()
         Style::Fullscreen);
  
     // Загружаем фон в текстуру
-    // Подготовьте изображение под ваш размер экрана в редакторе
     m_BackgroundTexture.loadFromFile("images/background.jpg");
  
     // Связываем спрайт и текстуру
