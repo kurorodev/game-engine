@@ -11,4 +11,5 @@ void Engine::draw()
  
     // Отображаем все, что нарисовали
     m_Window.display();
+    
 }
