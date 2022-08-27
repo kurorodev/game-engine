@@ -1,5 +1,7 @@
 #include "SFML/Graphics.hpp"
 
-class Human {
+using namespace sf;
 
+class Human {
+    Vector2f m_Position;
 };
