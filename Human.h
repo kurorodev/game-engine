@@ -3,5 +3,7 @@
 using namespace sf;
 
 class Human {
-    Vector2f m_Position;
+    Vector2f m_Position; //Позиция
+
+    Vector2f m_Size;
 };
